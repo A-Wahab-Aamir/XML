@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="Description" content="Enter your description here"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link rel="stylesheet" href="assets/css/style.css">
+<title>Title</title>
+</head>
+<body>
+
+ 
+<div class="container">
+    <div class="row">
+
+    </div>
+
+</div>
+
+
+<script src="data.js"></script>
+<script>
+
+    for(var i=0 ; i < data.length ;  i = i+1 ){
+        document.getElementsByClassName('row')[0].innerHTML += `
+        
+        <div class="card m-5" style="width: 18rem;">
+            <img src="${data[i].profile}" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">${data[i].name}</h5>
+              <p class="card-text">${data[i].class}</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        
+        
+        `
+    }
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/js/bootstrap.min.js"></script>
+</body>
+</html>
