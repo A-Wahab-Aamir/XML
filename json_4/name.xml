@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<movies>
+  <movie>
+    <title>Sholay</title>
+    <year>1975</year>
+    <director>Ramesh Sippy</director>
+    <genre>Action, Adventure, Comedy</genre>
+  </movie>
+  <movie>
+    <title>Lagaan</title>
+    <year>2001</year>
+    <director>Ashutosh Gowariker</director>
+    <genre>Drama, Musical, Sport</genre>
+  </movie>
+  <movie>
+    <title>Andaz Apna Apna</title>
+    <year>1994</year>
+    <director>Rajkumar Santoshi</director>
+    <genre>Comedy, Family, Romance</genre>
+  </movie>
+  <movie>
+    <title>Mughal-e-Azam</title>
+    <year>1960</year>
+    <director>K. Asif</director>
+    <genre>Drama, Musical, Romance</genre>
+  </movie>
+  <movie>
+    <title>Devdas</title>
+    <year>2002</year>
+    <director>Sanjay Leela Bhansali</director>
+    <genre>Drama, Musical, Romance</genre>
+  </movie>
+  <movie>
+    <title>Swades</title>
+    <year>2004</year>
+    <director>Ashutosh Gowariker</director>
+    <genre>Drama</genre>
+  </movie>
+  <movie>
+    <title>Queen</title>
+    <year>2014</year>
+    <director>Vikas Bahl</director>
+    <genre>Adventure, Comedy, Drama</genre>
+  </movie>
+  <movie>
+    <title>Haider</title>
+    <year>2014</year>
+    <director>Vishal Bhardwaj</director>
+    <genre>Action, Crime, Drama</genre>
+  </movie>
+  <movie>
+    <title>Barfi!</title>
+    <year>2012</year>
+    <director>Anurag Basu</director>
+    <genre>Adventure, Comedy, Drama</genre>
+  </movie>
+  <movie>
+    <title>Drishyam</title>
+    <year>2015</year>
+    <director>Nishikant Kamat</director>
+    <genre>Crime, Drama, Mystery</genre>
+  </movie>
+  <movie>
+    <title>3 Idiots</title>
+    <year>2009</year>
+    <director>Rajkumar Hirani</director>
+    <genre>Comedy, Drama</genre>
+  </movie>
+  <movie>
+    <title>PK</title>
+    <year>2014</year>
+    <director>Rajkumar Hirani</director>
+    <genre>Comedy, Drama, Fantasy</genre>
+  </movie>
+  <movie>
+    <title>Baahubali: The Beginning</title>
+    <year>2015</year>
+    <director>S. S. Rajamouli</director>
+    <genre>Action, Drama</genre>
+  </movie>
+  <movie>
+    <title>Baahubali 2: The Conclusion</title>
+    <year>2017</year>
+    <director>S. S. Rajamouli</director>
+    <genre>Action, Drama</genre>
+  </movie>
+  <movie>
+    <title>Dangal</title>
+    <year>2016</year>
+    <director>Nitesh Tiwari</director>
+    <genre>Action, Biography, Drama</genre>
+  </movie>
+</movies>
