@@ -1,0 +1,17 @@
+<collection xmlns:book1="https://www.bookcollection1.com.pk/namespace" xmlns:book2="https://www.bookcollection2.com.pk/namespace" xmlns:book3="https://www.bookcollection3.com.pk/namespace">
+    <book1:books >
+        <book1:pub_id>1022</book1:pub_id>
+        <book1:name>Rich Dad , Poor Dad</book1:name>
+        <book1:writter>Robert Kiyosaki and Sharon Lechter</book1:writter>
+    </book1:books>
+    <book2:books >
+        <book2:pub_id>1022</book2:pub_id>
+        <book2:name>Rich Dad , Poor Dad</book2:name>
+        <book2:writter>Robert Kiyosaki and Sharon Lechter</book2:writter>
+    </book2:books>
+    <book3:books >
+        <book3:pub_id>1022</book3:pub_id>
+        <book3:name>Rich Dad , Poor Dad</book3:name>
+        <book3:writter>Robert Kiyosaki and Sharon Lechter</book3:writter>
+    </book3:books>
+</collection>
