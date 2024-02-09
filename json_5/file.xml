@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection [
+    <!ELEMENT collection (books+)>
+    <!ELEMENT books (isbn, title , price , auther)>
+    <!ELEMENT isbn (#PCDATA)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT price (#PCDATA)>
+    <!ELEMENT auther (#PCDATA)>
+    <!ATTLIST books name CDATA "book">
+    <!ATTLIST isbn id CDATA #IMPLIED>
+   
+]>
+
+
+<collection>
+    <books name="book1">
+        <isbn id="123"> 978-3-16-148410-0</isbn>
+        <title>RICH DAD , POOR DAD</title>
+        <price>$6</price>
+        <auther>by Robert T. Kiyosaki</auther>
+    </books>
+    <books name="book2">
+        <isbn> 978-3-16-148410-0</isbn>
+        <title>RICH DAD , POOR DAD</title>
+        <price>$6</price>
+        <auther>by Robert T. Kiyosaki</auther>
+    </books>
+    <books name="book3">
+        <isbn> 978-3-16-148410-0</isbn>
+        <title>RICH DAD , POOR DAD</title>
+        <price>$6</price>
+        <auther>by Robert T. Kiyosaki</auther>
+    </books>
+
+</collection>
