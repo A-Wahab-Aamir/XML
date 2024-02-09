@@ -1,0 +1,16 @@
+collection{
+    background-color:  black;
+    color: red;
+}
+
+books{
+
+    display: table;
+    padding: 10px;
+}
+
+isbn , title , auther , price {
+    display: table-cell;
+    padding: 10px;
+    border: 3px solid purple;
+}
